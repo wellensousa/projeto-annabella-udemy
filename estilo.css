@@ -1,0 +1,56 @@
+body{
+	background: #FFFFF0;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+
+.capa {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom:  10px;
+	border-radius: 8px;
+}
+
+#principal {
+	max-width: 1280px;
+	height: 50%;
+	padding: 26px 0px;
+}
+
+#menu {
+	background: #EEEEE0;
+	padding: 18px;
+	max-width: 1280px;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+
+#conteudo {
+	background: #FFFFF0;
+	padding: 10px;
+}
+
+#rodape {
+	text-align: center;
+}
+
+.centralizar {
+	text-align: center;
+}
+
+.img-campanha {
+	border: 10px solid #EEEEE0;
+}
+
+a {
+	color: #8B8B83;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+h1 {
+	color: #8B8B83;
+	font-size: 1.2em;
+}
